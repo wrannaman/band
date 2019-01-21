@@ -23,6 +23,12 @@
 ## Download music
 I have all the audio files up in S3. Use the download_audio.sh helper to get the files.
 
+To download the music for a song, from the root directory do
+```
+$ ./download_audio.sh <song name>
+```
+- current songs are listed above
+
 ### Get files example
 
 ```
