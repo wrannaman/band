@@ -15,7 +15,7 @@ TRIANGLES='
 
 if [ -z "$1" ]
 then
-    printf "\nPlease enter a song name \nfor example ./download_audio.sh 0.0.19\n\n"
+    printf "\nPlease enter a song name \nfor example ./download_audio.sh 0.0.20\n\n"
 else
     cd $1
     if [ -f $1.zip ]; then
