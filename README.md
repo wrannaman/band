@@ -27,7 +27,7 @@ To download the music for a song, from the root directory do
 ```
 $ ./download_audio.sh <song name>
 ```
-- current songs are listed above
+- current songs are listed above, "0.0.20", "0.0.15", etc
 
 ### Get files example
 
