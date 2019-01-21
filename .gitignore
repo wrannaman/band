@@ -1,2 +1,3 @@
 *.wav
 *.asd
+.DS_Store
