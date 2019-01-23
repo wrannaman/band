@@ -1,7 +1,5 @@
-<div align="center">
-  <img src="https://s3.us-west-1.wasabisys.com/wrannaman/videos/vid1.gif" />
-</div>
-![Wrannaman](https://s3.us-west-1.wasabisys.com/wrannaman/videos/vid1.gif)
+
+<img src="https://s3.us-west-1.wasabisys.com/wrannaman/videos/vid1.gif" width="300" height="300" />
 
 
 
