@@ -22,7 +22,7 @@
 - [0.0.20](https://soundcloud.com/wrannaman/0201a)
 
 ## Download music
-I have all the audio files up in S3. Use the **download_audio.sh** helper to get the files.
+Use the **download_audio.sh** helper to get the audio files.
 
 To download the music for a song, from the root directory do
 ```
